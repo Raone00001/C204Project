@@ -1,2 +1,2 @@
-# C204Project
-wef
+# C204-project-template
+template with assets.
